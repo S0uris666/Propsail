@@ -206,7 +206,6 @@ Permite reenviar el token si el usuario no lo recibió.
   - Verify2FADto
   - PasswordResetRequestDto
   - ConfirmPasswordResetDto
-
 ---
 
 ## 5.2 Frontend (React)
